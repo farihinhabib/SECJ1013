@@ -1,0 +1,12 @@
+Central,Ahmad Faizal,Compact,50 8.50
+South,Amina Rosli,Compact,60 8.00
+Central,Faridah Hamizah,Luxury,20 25.00
+East,Nurul Huda Ali,Luxury,25 20.00
+Central,Tan Wei Chong,SUV,35 11.00
+North,Zainab Ismail,Sedan,50 9.50
+Central,Shahrul Nizam,Luxury,30 22.00
+North,Siti Aisyah Abu,SUV,30 12.00
+South,Rahim Abdullah,Sedan,40 10.00
+Central,Lee Mei Yin,Compact,55 9.00
+North,Samuel Lim,Sedan,45 10.50
+East,Kumar Devan,SUV,40 13.00
